@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_x">30dp</dimen>
+    <dimen name="height_search_one">35dp</dimen>
+    <dimen name="height_search">40dp</dimen>
+
+</resources>

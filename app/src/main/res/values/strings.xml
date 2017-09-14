@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">租赁费资源普查</string>
+    <string name="load_over"> </string>
+    <string name="load_ing">loading...</string>
+</resources>
